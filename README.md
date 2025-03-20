@@ -1,0 +1,1 @@
+# sample-springcloudstream-bindertest-dep
